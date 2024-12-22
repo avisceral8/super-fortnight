@@ -30,14 +30,14 @@ Welcome to **Granite 3.1 Chatbot**, a conversational AI application built to lev
 ## **Acknowledgments**
 This project would not have been possible without the contributions and innovations from the following:
 
-- [LangChain](https://github.com/hwchase17/langchain): For its robust framework that simplifies prompt engineering and dynamic template management, enabling context-aware responses.
+- [LangChain](https://github.com/hwchase17/langchain): For its framework that simplifies prompt engineering and dynamic template management.
 - [Gradio](https://gradio.app/): For providing an easy-to-use interface that brings the chatbot to life with an interactive and visually appealing design.
 - [Ollama](https://ollama.com/): For the tools and resources that made integrating Granite 3.1 seamless and effective.
 
 AI Contributors:
-Granite 3.1: The star of the project, delivering intelligent and context-aware responses.
-Claude: For assisting in brainstorming and fine-tuning ideas during development.
-GitHub Copilot: For being a coding companion, offering suggestions and improvements throughout the coding process.
+- Granite 3.1: The star of the project, delivering intelligent and context-aware responses.
+- Claude: For assisting in brainstorming and fine-tuning ideas during development.
+- GitHub Copilot: For being a coding companion, offering suggestions and improvements throughout the coding process.
 
 A heartfelt thanks to these incredible technologies and various online sources that made building Granite 3.1 Chatbot a fun and rewarding journey. 🙌
 
